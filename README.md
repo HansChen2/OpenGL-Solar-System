@@ -13,6 +13,10 @@ This is one of the project of CS550 of Oregon state University in the 2021 Fall 
 1. Install Visual studio with OpenGL tool.
 2. Download the jpg file and convert to the bmp.
 
+## Screenshot
+
+
+
 ## Link
 
 https://media.oregonstate.edu/media/t/1_gti6vhxt
