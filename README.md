@@ -15,8 +15,8 @@ This is one of the project of CS550 of Oregon state University in the 2021 Fall 
 
 ## Screenshot
 
-![Image text]([https://raw.github.com/yourName/repositpry/master/yourprojectName/img-folder/test.jpg](https://github.com/HansChen2/OpenGL-Solar-System/blob/main/inside_view.png))
-![Image text]([https://raw.github.com/yourName/repositpry/master/yourprojectName/img-folder/test.jpg)](https://github.com/HansChen2/OpenGL-Solar-System/blob/main/SaturnUranus.png)
+![Inside view](https://github.com/HansChen2/OpenGL-Solar-System/blob/main/inside_view.png)
+![Saturn ring and Uranus ring](https://github.com/HansChen2/OpenGL-Solar-System/blob/main/SaturnUranus.png)
 
 ## Link
 
