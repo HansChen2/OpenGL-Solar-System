@@ -1,5 +1,7 @@
 # OpenGL-Solar-System
 
+2021 Fall term CS550 Final project
+
 ## Overview
 
 In this project, I built a solar system with 10 planets and a galaxy background. I added texture mapping, followed Kepler's third law for all the planets, and added lighting for the sun. 
