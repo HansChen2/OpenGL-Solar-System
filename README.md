@@ -8,12 +8,12 @@ In this project, I built a solar system with 10 planets and a galaxy background.
 
 ## Mission Statement
 
-This is one of the project of CS550 of Oregon state University in the 2021 Fall term. This project is mainly to integrate the knowledge learned in this term into the final project
+This is one of the projects of CS550 of Oregon State University in the 2021 Fall term. This project is mainly to integrate the knowledge learned in this term into the final project
 
 ## Usage
 
-1. Install Visual studio with OpenGL tool.
-2. Download the jpg file and convert to the bmp.
+1. Install Visual Studio with OpenGL tool.
+2. Download the jpg file and convert it to the bmp.
 
 ## Screenshot
 
